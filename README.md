@@ -9,9 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/darondouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="darondouche" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alice darondeau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alice darondeau" height="30" width="40" /></a>
-<a href="https://codesandbox.com/darondouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="darondouche" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alicedarondeau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alice darondeau" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
