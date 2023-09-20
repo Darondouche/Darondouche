@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Alice Darondeau</h1>
 <h3 align="center">Your favorite new apprentice!</h3>
 
-- 🔭 I’m currently looking for **an apprenticeship starting on june for one year.**
+- 🔭 I’m currently **an apprentice for one year** in Acid-Solutions web agency.
 
 - 🌱 Currently learning **how to manage life. And on the side, how to clean code and provide sustainable projects.**
 
