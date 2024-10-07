@@ -5,6 +5,8 @@
 
 - 🌱 Currently learning **how to manage life. And on the side, how to clean code and provide sustainable projects.**
 
+- Checkout my side project **Feelit** : <a href="https://github.com/FeelitApp" target="blank">feelit-app</a>
+
 - 📫 How to reach me: **darondeau.alice@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
